@@ -1,0 +1,86 @@
+nav {
+  height: 2rem;
+  background: #0000003d;
+}
+.navbar-brand {
+  color: #ffffff;
+  width: 100px;
+  font-weight: bolder;
+  margin-top: 0.8rem;
+}
+.dropdown-toggle {
+  background: transparent;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 400;
+  margin-top: 0.8rem;
+}
+.dropdown-toggle:hover {
+  background: #a6c5e229;
+  color: #172b4d;
+  border-radius: 8px;
+}
+.container-fluid {
+  width: 100%;
+  height: 4rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  margin-left: 0;
+}
+.dropdown-menu {
+  background: #212529;
+}
+.dropdown-menu:hover {
+  color: #172b4d;
+  border-radius: 8px;
+}
+.dropdown-item:hover {
+  background: #a6c5e229;
+}
+.form-control {
+  border: none;
+  height: 2rem;
+  background: #ffffff;
+}
+.icons-main {
+  margin: 2rem;
+  padding: 10px;
+  overflow: hidden;
+}
+.icons-lower {
+  color: #ffffff;
+  position: relative;
+  overflow: hidden;
+  margin: 0.5rem;
+  margin-top: 0.8rem;
+}
+.icons-lower:hover {
+  background: #a6c5e229;
+  color: #172b4d;
+  border-radius: 8px;
+}
+.serach-b-div {
+  margin-top: 0.8rem;
+}
+.nav-btn {
+  width: fit-content;
+  height: 2rem;
+}
+.nav-link {
+  color: #ffffff;
+}
+.dropdown-menu {
+  color: #ffffff;
+}
+.dropdown-item {
+  color: #ffffff;
+}
+.btn {
+  border-radius: 0.5rem;
+  width: 50px !important;
+}
+
+.logout-button {
+  width: fit-content;
+  margin-top: 0.8rem;
+}

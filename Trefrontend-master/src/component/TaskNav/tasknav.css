@@ -1,0 +1,17 @@
+.tasknav{
+    position: absolute; 
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* background: #172b4d; */
+    color: black;
+    gap: 4px;
+    width:100%;
+    align-items: center;
+  margin-left: 0.5rem; 
+    padding: 12px 10px 12px 16px;
+    z-index: 1;
+  }
+  .nav-btn{
+    border-radius: 0.5rem;
+  }
